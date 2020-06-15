@@ -11,6 +11,10 @@
 アイデア次第で様々な導電布を近接センサとして利用することができ、  
 モニタツールを用いて画面上で静電容量の変化を見ながら感度やしきい値などの調整を行うことができます。  
 
+## [PCアプリケーション](https://github.com/bit-trade-one/ADFBE01-Smart-Textile-Develop/tree/master/App)
+
+## [ユーザーマニュアル](https://github.com/bit-trade-one/ADFBE01-Smart-Textile-Develop/blob/master/Manual/manual.pdf)
+
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adfbe/)!
 
 ## 製品仕様
